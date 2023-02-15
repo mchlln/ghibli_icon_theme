@@ -10,6 +10,10 @@ For now, the supported languages are C, C++, C#, Java, Ocaml, Python, HTML, CSS,
 
 <img width="150" alt="Screen Shot 2023-02_15" src="overview.png">
 
+## Download
+
+[Click here](https://marketplace.visualstudio.com/items?itemName=mchlln.vscode-ghibli-icon-theme) to find it in the VSCode Marketplace
+
 ## Resources
 
 Inspired by the icon themes of [@kylap](https://github.com/klyap)
