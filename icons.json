@@ -10,7 +10,7 @@
         "iconPath": "icons/moving_castle.png"
       },
       "_javascript": {
-        "iconPath": "icons/castle.png"
+        "iconPath": "icons/marnie.png"
       },
       "_javascript_test": {
         "iconPath": "icons/food.png"
@@ -49,7 +49,7 @@
         "iconPath": "icons/faceless.png"
       },
       "_java":{
-        "iconPath": "icons/marnie.png"
+        "iconPath": "icons/chihiro.png"
       },
       "_makefile":{
         "iconPath": "icons/spirit.png"
