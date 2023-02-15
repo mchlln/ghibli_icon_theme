@@ -1,0 +1,119 @@
+{
+    "iconDefinitions": {
+      "_file": {
+        "iconPath": "icons/jiji.png"
+      },
+      "_css": {
+        "iconPath": "icons/epouvantail.png"
+      },
+      "_html": {
+        "iconPath": "icons/moving_castle.png"
+      },
+      "_javascript": {
+        "iconPath": "icons/castle.png"
+      },
+      "_javascript_test": {
+        "iconPath": "icons/food.png"
+      },
+      "_json": {
+        "iconPath": "icons/ponyo.png"
+      },
+      "_git": {
+        "iconPath": "icons/calcifer.png"
+      },
+      "_image": {
+        "iconPath": "icons/san.png"
+      },
+      "_markdown": {
+        "iconPath": "icons/readme.png"
+      },
+      "_license": {
+        "iconPath": "icons/laputa.png"
+      },
+      "_ocaml":{
+        "iconPath": "icons/ocaml.png"
+      },
+      "_python":{
+        "iconPath": "icons/pythar.png"
+      },
+      "_text":{
+        "iconPath": "icons/txt.jpg"
+      },
+      "_c":{
+        "iconPath": "icons/arriety.png"
+      },
+      "_cpp":{
+        "iconPath": "icons/dust.png"
+      },
+      "_csharp":{
+        "iconPath": "icons/faceless.png"
+      },
+      "_java":{
+        "iconPath": "icons/marnie.png"
+      },
+      "_makefile":{
+        "iconPath": "icons/spirit.png"
+      },
+      "_latex":{
+        "iconPath": "icons/robot.png"
+      },
+      "_visualstudiocode":{
+        "iconPath": "icons/totoro.png"
+      },
+      "_php":{
+        "iconPath": "icons/nausicaa.png"
+      }
+    },
+    "file": "_file",
+    "fileExtensions": {
+      "js": "_javascript",
+      "jpeg": "_image",
+      "jpg": "_image",
+      "gif": "_image",
+      "png": "_image",
+      "bmp": "_image",
+      "ico": "_image",
+      "svg": "_image",
+      "node.js": "_javascript_test",
+      "md": "_markdown",
+      "git": "_git"
+    },
+    "fileNames": {
+      "license": "_license",
+      "licence": "_license",
+      "license.md": "_license",
+      "licence.md": "_license",
+      "license.txt": "_license",
+      "copyright": "_license",
+      "copyright.md": "_license",
+      "package.json": "_json",
+      "package-lock.json": "_json",
+      "vscodeignore.json": "_visualstudiocode",
+      "extensions.json": "_visualstudiocode",
+      "launch.json": "_visualstudiocode",
+      "settings.json": "_visualstudiocode",
+      "jsconfig.json": "_json",
+      "tsconfig.json": "_json",
+      "contributing": "_markdown",
+      "metadata": "_markdown",
+      ".gitignore": "_git",
+      ".txt": "_text"
+    },
+    "languageIds": {
+      "git": "_git",
+      "javascript": "_javascript",
+      "css": "_css",
+      "html": "_html",
+      "json": "_json",
+      "c": "_c",
+      "ocaml": "_ocaml",
+      "cpp" : "_cpp",
+      "csharp":"_csharp",
+      "markdown": "_markdown",
+      "makefile": "_makefile",
+      "python": "_python",
+      "php": "_php",
+      "latex": "_latex",
+      "java": "_java"
+    }
+  }

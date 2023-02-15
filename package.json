@@ -1,0 +1,33 @@
+{
+    "name": "vscode-ghibli-icon-theme",
+    "displayName": "Ghibli Icon Theme",
+    "description": "Icons from ghibli movies",
+    "version": "0.0.1",
+    "publisher": "mchlln",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "vscode-ghibli-icon-theme",
+                "label": "Ghibli Icon Theme",
+                "path": "./icons.json"
+            }
+
+        ]
+    },
+    "categories": [
+        "Themes"
+    ],
+	"keywords": [
+		"icons",
+        "theme",
+        "pixel",
+        "icon",
+        "cute",
+        "ghibli",
+        "miyazaki"
+    ],
+	"license": "MIT"
+}
