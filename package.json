@@ -17,6 +17,11 @@
 
         ]
     },
+    "icon": "icons/totoro.png",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/mchlln/ghibli_icon_theme.git"
+	},
     "categories": [
         "Themes"
     ],
