@@ -2,7 +2,7 @@
     "name": "vscode-ghibli-icon-theme",
     "displayName": "Ghibli Icon Theme",
     "description": "Icons from ghibli movies",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "mchlln",
     "engines": {
         "vscode": "^1.20.0"
@@ -14,19 +14,18 @@
                 "label": "Ghibli Icon Theme",
                 "path": "./icons.json"
             }
-
         ]
     },
     "icon": "icons/totoro.png",
     "repository": {
-		"type": "git",
-		"url": "https://github.com/mchlln/ghibli_icon_theme.git"
-	},
+        "type": "git",
+        "url": "https://github.com/mchlln/ghibli_icon_theme.git"
+    },
     "categories": [
         "Themes"
     ],
-	"keywords": [
-		"icons",
+    "keywords": [
+        "icons",
         "theme",
         "icon",
         "ghibli",
@@ -34,5 +33,5 @@
         "totoro",
         "anime"
     ],
-	"license": "MIT"
+    "license": "MIT"
 }
